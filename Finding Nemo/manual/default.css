@@ -1,0 +1,98 @@
+body {
+	background-color: #002B6A;
+	color: #000D4E;
+}
+
+body, html {
+	scrollbar-arrow-color: #ffffff;
+	scrollbar-face-color: #444E7D;
+	scrollbar-highlight-color: #444E7D;
+	scrollbar-shadow-color: #444E7D;
+	scrollbar-3dlight-color: #000000;
+	scrollbar-track-color: #002B6A;
+	scrollbar-darkshadow-color: #000000;
+}
+
+div, td, p, ul, ol, span {
+	font-family: Verdana;
+	color: #000D4E;
+	background-color: transparent;
+}
+
+div.head {
+	color: #054A91;
+	background-color: transparent;
+}
+
+td.main {
+	background-color: #ffffff;
+	color: #000D4E;
+}
+
+td.copy {
+	color: #444E7D;
+	background-color: transparent;
+}
+
+td.crleft, td.crright {
+	width: 273px;
+}
+
+td.newshead {
+	border: 1px solid #054A91;
+}
+
+td.textc {
+	vertical-align: middle;
+	font-size: 100%;
+}
+ 
+p.title {
+	color: #054A91;
+	background-color: transparent;
+}
+
+p.info {
+	color: #444E7D;
+	background-color: transparent;
+}
+
+p.comment {
+	color: #444E7D;
+	background-color: transparent;
+}
+
+a {
+	color: #054A91; 
+	background-color: transparent;
+}
+
+a:hover {
+	color: #000D4E; 
+	background-color: transparent;
+}
+
+span.select, span.selecti {
+	color: #000D4E; 
+	background-color: transparent;
+}
+
+.combo {
+	background-color: #ffffff;
+	color: #000D4E;
+}
+
+p.imgtitle {
+	color: #ffffff;
+	background-color: transparent;
+}
+
+p.imgcopy {
+	color: #cccccc;
+	background-color: transparent;
+}
+
+option.new {
+	color: #054A91; 
+	background-color: transparent;
+}
